@@ -44,9 +44,9 @@
 
 ## 🔥 Quote to Code By
 <blockquote align="center">
-  <i>“It is hard to think that a $2 billion company with 4,300-plus people couldn’t compete with six people in blue jeans.”</i>  
+  <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>  
   <br />
-  — <b>Steve Jobs</b>
+  
 </blockquote>
 
 ---
